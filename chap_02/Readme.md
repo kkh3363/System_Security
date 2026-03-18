@@ -6,3 +6,8 @@
  
 - 어셈플리
   1. [WinASM](https://winasm.org/downloads.html)
+
+
+### 과제 
+- 페이지 137
+- 12번 ~ 20번까지....
