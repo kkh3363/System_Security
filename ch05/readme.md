@@ -1,1 +1,2 @@
-https://github.com/kbandla/ImmunityDebugger/releases
+- https://github.com/kbandla/ImmunityDebugger/releases
+- [Immunity Debugger 다운로드](https://github.com/kbandla/ImmunityDebugger/releases/download/1.85/ImmunityDebugger_1_85_setup.exe)
